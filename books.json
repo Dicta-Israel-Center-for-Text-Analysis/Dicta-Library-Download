@@ -1,19 +1,5 @@
 [
  {
-  "author": "רבי יוסף בן מאיר הלוי אבן מיגאש",
-  "authorEnglish": "Yosef ben Meir haLevi Even Migash",
-  "category": "שו\"ת",
-  "categoryEnglish": "Responsa",
-  "displayName": "ר\"י מיגאש",
-  "displayNameEnglish": "rimigash",
-  "fileName": "Ri Migash",
-  "printLocation": "ווארשא",
-  "printLocationEnglish": "Warsaw",
-  "printYear": 1870,
-  "textFileURL": "https://files.dicta.org.il/Ri Migash/Ri Migash__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/Ri Migash/Ri Migash__nikud_meteg_files.zip"
- },
- {
   "author": "הרב יעקב יוקב אֶטלינגר",
   "authorEnglish": "Yaakov Etlinger",
   "category": "מפרשי הש\"ס (אחרונים)",
@@ -915,21 +901,6 @@
   "authorEnglish": "Isaac Minkovski",
   "category": "מפרשי הש\"ס (אחרונים)",
   "categoryEnglish": "Acharonim on Talmud Bavli",
-  "displayName": "קרן אורה הוריות",
-  "displayNameEnglish": "Keren Orah Horayot",
-  "fileName": "kerenorahhorayot",
-  "printLocation": "ווארשא",
-  "printLocationEnglish": "Warsaw",
-  "printYear": 1884,
-  "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/kerenorahhorayot/kerenorahhorayot__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahhorayot/kerenorahhorayot__nikud_meteg_files.zip"
- },
- {
-  "author": "הרב יצחק מינקובסקי",
-  "authorEnglish": "Isaac Minkovski",
-  "category": "מפרשי הש\"ס (אחרונים)",
-  "categoryEnglish": "Acharonim on Talmud Bavli",
   "displayName": "קרן אורה מעילה",
   "displayNameEnglish": "Keren Orah Meila",
   "fileName": "kerenorahmeila",
@@ -1317,14 +1288,14 @@
   "authorEnglish": "Chaim Ozer Grodzinski",
   "category": "מפרשים וחיבורים סביב שולחן ערוך",
   "categoryEnglish": "Commentaries on Shulchan Aruch",
-  "displayName": "נחל יצחק",
-  "displayNameEnglish": "Nachal Yitzchak part 1",
-  "fileName": "nachalyitzchak1",
+  "displayName": "נחל יצחק חלק ב",
+  "displayNameEnglish": "Nachal Yitzchak part 2",
+  "fileName": "nachalyitzchak2",
   "printLocation": "וילנא",
   "printLocationEnglish": "Vilna",
   "printYear": 1872,
-  "textFileURL": "https://files.dicta.org.il/nachalyitzchak1/nachalyitzchak1__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/nachalyitzchak1/nachalyitzchak1__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/nachalyitzchak2/nachalyitzchak2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/nachalyitzchak2/nachalyitzchak2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי רפאל יום טוב ליפמן היילפרין",
@@ -1545,6 +1516,20 @@
   "nikudMetegFileURL": "https://files.dicta.org.il/rimigashshevuot/rimigashshevuot__nikud_meteg_files.zip"
  },
  {
+  "author": "רבי חיים בן עֲטַר",
+  "authorEnglish": "Rabbi Chaim Ben Attar",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "ראשון לציון על ברכות",
+  "displayNameEnglish": "Rishon Letzion (Berakhot)",
+  "fileName": "rishonletzionberakhot",
+  "printLocation": "אדעסא",
+  "printLocationEnglish": "Odesa",
+  "printYear": 1867,
+  "textFileURL": "https://files.dicta.org.il/rishonletzionberakhot/rishonletzionberakhot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/rishonletzionberakhot/rishonletzionberakhot__nikud_meteg_files.zip"
+ },
+ {
   "author": "רבי משה בן מכיר",
   "authorEnglish": "Moshe ben Machir",
   "category": "ספרי מחשבה ומוסר",
@@ -1735,6 +1720,21 @@
   "source": "מספריית דיקטה",
   "textFileURL": "https://files.dicta.org.il/shufrehdeyaakov2/shufrehdeyaakov2__text_files.zip",
   "nikudMetegFileURL": "https://files.dicta.org.il/shufrehdeyaakov2/shufrehdeyaakov2__nikud_meteg_files.zip"
+ },
+ {
+  "author": "יעקב גֶזונדהייט",
+  "authorEnglish": "Yaakov Gesundheit",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "תפארת יעקב על גיטין",
+  "displayNameEnglish": "Tiferet Ya’akov (Gittin)",
+  "fileName": "tiferetyaakovgittin",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1858,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/tiferetyaakovgittin/tiferetyaakovgittin__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tiferetyaakovgittin/tiferetyaakovgittin__nikud_meteg_files.zip"
  },
  {
   "displayName": "תורת חסד",
