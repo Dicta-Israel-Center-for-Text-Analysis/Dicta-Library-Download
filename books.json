@@ -1,5 +1,19 @@
 [
  {
+  "author": "רבי יוסף בן מאיר הלוי אבן מיגאש",
+  "authorEnglish": "Yosef ben Meir haLevi Even Migash",
+  "category": "שו\"ת",
+  "categoryEnglish": "Responsa",
+  "displayName": "ר\"י מיגאש",
+  "displayNameEnglish": "rimigash",
+  "fileName": "Ri Migash",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1870,
+  "textFileURL": "https://files.dicta.org.il/Ri Migash/Ri Migash__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/Ri Migash/Ri Migash__nikud_meteg_files.zip"
+ },
+ {
   "author": "הרב יעקב יוקב אֶטלינגר",
   "authorEnglish": "Yaakov Etlinger",
   "category": "מפרשי הש\"ס (אחרונים)",
@@ -11,8 +25,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1875,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/aruchlanerroshhashanah/aruchlanerroshhashanah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/aruchlanerroshhashanah/aruchlanerroshhashanah__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יעקב יוקב אֶטלינגר",
@@ -26,8 +40,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1875,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/aruchlanersanhedrin/aruchlanersanhedrin__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/aruchlanersanhedrin/aruchlanersanhedrin__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב מלובלין, רבי העשיל מקראקא, חלקת מחוקק",
@@ -41,8 +55,8 @@
   "printLocationEnglish": "Lublin",
   "printYear": 1895,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/asefatgeonim/asefatgeonim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/asefatgeonim/asefatgeonim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי שלמה בן משה אבן דנאן",
@@ -56,8 +70,8 @@
   "printLocationEnglish": "Jerusalem",
   "source": "מספריית דיקטה",
   "printYear": 1906,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/asherlishlomo/asherlishlomo__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/asherlishlomo/asherlishlomo__nikud_meteg_files.zip"
  },
  {
   "displayName": "אבקת רוכל",
@@ -71,8 +85,8 @@
   "category": "שו\"ת",
   "categoryEnglish": "Responsa",
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/avkatrochel/avkatrochel__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/avkatrochel/avkatrochel__nikud_meteg_files.zip"
  },
  {
   "author": "רבי דוד פיפאנו",
@@ -85,8 +99,8 @@
   "printLocation": "סופיה",
   "printLocationEnglish": null,
   "printYear": 1913,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/avneihaephod/avneihaephod__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/avneihaephod/avneihaephod__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אריה לייב הכהן",
@@ -99,8 +113,8 @@
   "printLocation": "הלברשטאט",
   "printLocationEnglish": "Halberstadt",
   "printYear": 1860,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/avneimiluim/avneimiluim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/avneimiluim/avneimiluim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אברהם בורנשטיין",
@@ -114,8 +128,8 @@
   "printLocationEnglish": "Piotrkow, Lodz",
   "printYear": "חלק א-ד: 1912-1913, חלק ה-ו: 1926 חלק ז: 1934",
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/avneinezerchoshenmishpat/avneinezerchoshenmishpat__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/avneinezerchoshenmishpat/avneinezerchoshenmishpat__nikud_meteg_files.zip"
  },
  {
   "author": "רבי שאול ישועה אביטבול",
@@ -129,8 +143,8 @@
   "printLocation": "ירושלים",
   "printLocationEnglish": "Jerusalem",
   "printYear": "1930",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/avneishayish1/avneishayish1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/avneishayish1/avneishayish1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי גרשון בן יצחק אשכנזי",
@@ -143,8 +157,8 @@
   "printLocation": "לבוב",
   "printLocationEnglish": null,
   "printYear": 1861,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/avodathagershuni/avodathagershuni__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/avodathagershuni/avodathagershuni__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יואל בן שמואל סירקיש",
@@ -158,8 +172,8 @@
   "printLocationEnglish": "Austria",
   "printYear": 1834,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/bach/bach__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/bach/bach__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יששכר בער איילינברג",
@@ -172,8 +186,53 @@
   "printLocation": "ורשא",
   "printLocationEnglish": null,
   "printYear": 1890,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/beersheva/beersheva__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beersheva/beersheva__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי יששכר בער איילינברג",
+  "authorEnglish": "Issachar Be'ar Eilenburg",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "באר שבע כריתות",
+  "displayNameEnglish": "Ba’er Sheva Kritot",
+  "fileName": "beershevakritot",
+  "printLocation": "ורשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1890,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/beershevakritot/beershevakritot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beershevakritot/beershevakritot__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי יששכר בער איילינברג",
+  "authorEnglish": "Issachar Be'ar Eilenburg",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "באר שבע סוטה",
+  "displayNameEnglish": "Ba’er Sheva Sotah",
+  "fileName": "beershevasotah",
+  "printLocation": "ורשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1890,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/beershevasotah/beershevasotah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beershevasotah/beershevasotah__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי יששכר בער איילינברג",
+  "authorEnglish": "Issachar Be'ar Eilenburg",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "באר שבע תמיד",
+  "displayNameEnglish": "Ba’er Sheva Tamid",
+  "fileName": "beershevatamid",
+  "printLocation": "ורשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1890,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/beershevatamid/beershevatamid__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beershevatamid/beershevatamid__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אפרים זלמן מרגליות",
@@ -187,8 +246,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1883,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/beitephraimchoshenmishpat/beitephraimchoshenmishpat__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimchoshenmishpat/beitephraimchoshenmishpat__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אפרים זלמן מרגליות",
@@ -202,8 +261,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1883,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/beitephraimevenhaezer1/beitephraimevenhaezer1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimevenhaezer1/beitephraimevenhaezer1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אפרים זלמן מרגליות",
@@ -217,8 +276,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1883,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/beitephraimevenhaezer2/beitephraimevenhaezer2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimevenhaezer2/beitephraimevenhaezer2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אפרים זלמן מרגליות",
@@ -232,8 +291,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1883,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/beitephraimevenhaezer3/beitephraimevenhaezer3__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimevenhaezer3/beitephraimevenhaezer3__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אפרים זלמן מרגליות",
@@ -247,8 +306,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1883,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/beitephraimevenhaezer4/beitephraimevenhaezer4__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimevenhaezer4/beitephraimevenhaezer4__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אפרים זלמן מרגליות",
@@ -261,8 +320,8 @@
   "printLocation": "ורשה",
   "printLocationEnglish": null,
   "printYear": 1904,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/beitephraimorachchaim/beitephraimorachchaim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimorachchaim/beitephraimorachchaim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אפרים זלמן מרגליות",
@@ -291,8 +350,22 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1863,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/bethalevi1/bethalevi1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/bethalevi1/bethalevi1__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב שלמה הכהן מווילנה",
+  "authorEnglish": "rabbi shlomo hacohen from vilna",
+  "category": "הלכה",
+  "categoryEnglish": "halacha",
+  "displayName": "בנין שלמה חלק ב",
+  "displayNameEnglish": "Binyan Shlomo part 2",
+  "fileName": "binyanshlomo2",
+  "printLocation": "וילנה",
+  "printLocationEnglish": "Vilna",
+  "printYear": 1888,
+  "textFileURL": "https://files.dicta.org.il/binyanshlomo2/binyanshlomo2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/binyanshlomo2/binyanshlomo2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב עטלינגר",
@@ -306,8 +379,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1878,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/binyantsiyonhachadashot/binyantsiyonhachadashot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/binyantsiyonhachadashot/binyantsiyonhachadashot__nikud_meteg_files.zip"
  },
  {
   "displayName": "ברכת אברהם",
@@ -318,8 +391,8 @@
   "author": "רבי אברהם בן הרמב\"ם",
   "category": "שו\"ת",
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/birkatavraham/birkatavraham__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/birkatavraham/birkatavraham__nikud_meteg_files.zip"
  },
  {
   "author": "רבי חיים יוסף דוד אזולאי",
@@ -333,8 +406,22 @@
   "printLocationEnglish": "Lemberg",
   "printYear": 1886,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chaimsheal1/chaimsheal1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chaimsheal1/chaimsheal1__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יעקב דוד וילובסקי",
+  "authorEnglish": "rabbi yaakov david vilvovski",
+  "category": "מפרשי התלמוד",
+  "categoryEnglish": "Talmud commentaries",
+  "displayName": "חנה דוד",
+  "displayNameEnglish": "Chana David",
+  "fileName": "chanadavid",
+  "printLocation": "ווילנא",
+  "printLocationEnglish": "Vilna",
+  "printYear": 1876,
+  "textFileURL": "https://files.dicta.org.il/chanadavid/chanadavid__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chanadavid/chanadavid__nikud_meteg_files.zip"
  },
  {
   "author": "רבי נחום וידנפלד",
@@ -348,8 +435,22 @@
   "printLocationEnglish": "Bilgory",
   "printYear": 1939,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chazonnachum/chazonnachum__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chazonnachum/chazonnachum__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי אלחנן אשכנזי",
+  "authorEnglish": "rabbi elchanan ashkenazi",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "חידוד הלכות על נדה",
+  "displayNameEnglish": "Chidud Halachot Niddah",
+  "fileName": "chidudhalachotniddah",
+  "printLocation": "ווילנא",
+  "printLocationEnglish": "Vilna",
+  "printYear": 1880,
+  "textFileURL": "https://files.dicta.org.il/chidudhalachotniddah/chidudhalachotniddah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidudhalachotniddah/chidudhalachotniddah__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מאיר אלתר (רוטנברג)",
@@ -362,8 +463,8 @@
   "printLocation": " ווארשא",
   "printLocationEnglish": "Warsaw",
   "printYear": 1880,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimbavabatra/chidusheiharimbavabatra__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimbavabatra/chidusheiharimbavabatra__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מאיר אלתר (רוטנברג)",
@@ -377,8 +478,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1880,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimbavakamma/chidusheiharimbavakamma__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimbavakamma/chidusheiharimbavakamma__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מאיר אלתר (רוטנברג)",
@@ -392,8 +493,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1880,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimbavametzia/chidusheiharimbavametzia__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimbavametzia/chidusheiharimbavametzia__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מאיר אלתר (רוטנברג)",
@@ -407,8 +508,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1877,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimgittin/chidusheiharimgittin__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimgittin/chidusheiharimgittin__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מאיר אלתר (רוטנברג)",
@@ -422,8 +523,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1877,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimketubot/chidusheiharimketubot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimketubot/chidusheiharimketubot__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מאיר אלתר (רוטנברג)",
@@ -437,8 +538,22 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1875,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimkiddushin/chidusheiharimkiddushin__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimkiddushin/chidusheiharimkiddushin__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי יצחק מאיר",
+  "authorEnglish": "Yitzchak Meir Alter",
+  "category": "שו\"ת",
+  "categoryEnglish": "Responsa",
+  "displayName": "חדושי הרי\"ם",
+  "displayNameEnglish": "Chidushei HaRim Responsa",
+  "fileName": "chidusheiharimresponsa",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": null,
+  "printYear": 1882,
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimresponsa/chidusheiharimresponsa__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimresponsa/chidusheiharimresponsa__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מאיר אלתר (רוטנברג)",
@@ -452,8 +567,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1877,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chidusheiharimshevuot/chidusheiharimshevuot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chidusheiharimshevuot/chidusheiharimshevuot__nikud_meteg_files.zip"
  },
  {
   "author": "רבי חיים בן יצחק מוולוז'ין",
@@ -467,8 +582,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1882,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chuthameshullash1/chuthameshullash1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chuthameshullash1/chuthameshullash1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי הלל מוולוז'ין",
@@ -482,8 +597,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1882,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chuthameshullash2/chuthameshullash2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chuthameshullash2/chuthameshullash2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אליעזר יצחק פריד",
@@ -497,8 +612,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1882,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/chuthameshullash3/chuthameshullash3__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/chuthameshullash3/chuthameshullash3__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מלכיאל צבי טננבוים",
@@ -511,8 +626,8 @@
   "printLocation": "חלק א-ב וילנא  חלק ג-ה ירושלים",
   "printLocationEnglish": "Vilna, Jerusalem",
   "printYear": "חלק א-ב1891 חלק ג-ה 1976",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/divreimalkiel1/divreimalkiel1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/divreimalkiel1/divreimalkiel1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מלכיאל צבי טננבוים",
@@ -525,8 +640,8 @@
   "printLocation": "חלק א-ב וילנא  חלק ג-ה ירושלים",
   "printLocationEnglish": "Vilna, Jerusalem",
   "printYear": "חלק א-ב1891 חלק ג-ה 1976",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/divreimalkiel2/divreimalkiel2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/divreimalkiel2/divreimalkiel2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יצחק בן שמואל אדרבי",
@@ -540,8 +655,8 @@
   "printLocation": "סדילקוב",
   "printLocationEnglish": null,
   "printYear": 1833,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/divreirivot/divreirivot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/divreirivot/divreirivot__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יצחק אלחנן בן ישראל ספקטור",
@@ -554,8 +669,23 @@
   "printLocation": "וילנא",
   "printLocationEnglish": "Vilna",
   "printYear": "בתיקייה אבן העזר: 1895, אורח חיים, חושן משפט, יורה דעה:1889",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/einyitzchak/einyitzchak__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/einyitzchak/einyitzchak__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב אריה לייב צינץ",
+  "authorEnglish": "Aryeh Leib ben Moses Zuenz",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "גרש ירחים",
+  "displayNameEnglish": "Geresh Yerachim",
+  "fileName": "gereshyerachim",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1869,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/gereshyerachim/gereshyerachim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/gereshyerachim/gereshyerachim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אריה ליב גינזבורג",
@@ -569,8 +699,23 @@
   "printLocationEnglish": "Piotrkow",
   "printYear": 1907,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/gevuratarimakkotbeitzahnazir/gevuratarimakkotbeitzahnazir__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/gevuratarimakkotbeitzahnazir/gevuratarimakkotbeitzahnazir__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי אריה ליב גינזבורג",
+  "authorEnglish": "Aryeh Leib ben Asher Ginzburg",
+  "category": "מפרשי הש\"ס",
+  "categoryEnglish": "Shas Commentators",
+  "displayName": "גבורת ארי תענית",
+  "displayNameEnglish": "Gevurat Ari Taanit",
+  "fileName": "gevurataritaanit",
+  "printLocation": "ווילנא",
+  "printLocationEnglish": "Vilna",
+  "printYear": 1862,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/gevurataritaanit/gevurataritaanit__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/gevurataritaanit/gevurataritaanit__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אריה ליב גינזבורג",
@@ -584,8 +729,8 @@
   "printLocationEnglish": "Piotrkow",
   "printYear": 1907,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/gevuratariyoma/gevuratariyoma__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/gevuratariyoma/gevuratariyoma__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב לנדא",
@@ -599,8 +744,8 @@
   "printLocationEnglish": "Piotrkow",
   "printYear": 1884,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/haagur/haagur__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/haagur/haagur__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב ישראל חגיז",
@@ -614,8 +759,8 @@
   "printLocationEnglish": "Krakow",
   "printYear": 1897,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/halachotketanot1/halachotketanot1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/halachotketanot1/halachotketanot1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב ישראל חגיז",
@@ -629,8 +774,23 @@
   "printLocationEnglish": "Krakow",
   "printYear": 1897,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/halachotketanot2/halachotketanot2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/halachotketanot2/halachotketanot2__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי אריה ליבש הלוי הורוויץ",
+  "authorEnglish": "Horowitz, Aryeh Leib ben Isaac,",
+  "category": "שו\"ת",
+  "categoryEnglish": "Responsa",
+  "displayName": "הרי בשמים",
+  "displayNameEnglish": "hareibesamim",
+  "fileName": "hareibesamim",
+  "printLocation": "לבוב",
+  "printLocationEnglish": "Lvov",
+  "printYear": 1983,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/hareibesamim/hareibesamim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/hareibesamim/hareibesamim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי משה טייטלבוים",
@@ -643,8 +803,8 @@
   "printLocation": "לעמבערג",
   "printLocationEnglish": "Lemberg",
   "printYear": 1866,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/heshivmosheevenhaezer/heshivmosheevenhaezer__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/heshivmosheevenhaezer/heshivmosheevenhaezer__nikud_meteg_files.zip"
  },
  {
   "author": "רבי שמואל די אוזידא ",
@@ -658,8 +818,8 @@
   "printLocationEnglish": "Munkatch",
   "printYear": 1895,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/iggeretshmuel/iggeretshmuel__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/iggeretshmuel/iggeretshmuel__nikud_meteg_files.zip"
  },
  {
   "author": "רבי דניאל טירני",
@@ -673,8 +833,8 @@
   "source": "מספריית דיקטה",
   "printLocationEnglish": "Vilna",
   "printYear": 1895,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/ikarihadt/ikarihadt__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/ikarihadt/ikarihadt__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מאיר אוירבך",
@@ -688,8 +848,37 @@
   "printLocationEnglish": "Jerusalem",
   "source": "מספריית דיקטה",
   "printYear": 1871,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/imreibina/imreibina__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/imreibina/imreibina__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב מאיר אוירבך",
+  "authorEnglish": "Meir Aurbach",
+  "category": "ספרי מערכות ועניינים",
+  "categoryEnglish": "Chiddushim by Topic",
+  "displayName": "אמרי בינה אורח חיים",
+  "displayNameEnglish": "Imrei Binah Orach Chayim",
+  "fileName": "imreibinahorachchayim",
+  "printLocation": "ירושלים",
+  "printLocationEnglish": "Jerusalem",
+  "printYear": 1871,
+  "textFileURL": "https://files.dicta.org.il/imreibinahorachchayim/imreibinahorachchayim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/imreibinahorachchayim/imreibinahorachchayim__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי משה בן רבי שלמה אבן חביב",
+  "authorEnglish": "Moshe ben Shlomo Even Chaviv",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה הוריות",
+  "displayNameEnglish": "Kappot Temarim",
+  "fileName": "kappottemarim",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1861,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kappottemarim/kappottemarim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kappottemarim/kappottemarim__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מינקובסקי",
@@ -703,8 +892,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/kerenorahdinitreifot/kerenorahdinitreifot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahdinitreifot/kerenorahdinitreifot__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מינקובסקי",
@@ -718,8 +907,23 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/kerenoraheruvin/kerenoraheruvin__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenoraheruvin/kerenoraheruvin__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יצחק מינקובסקי",
+  "authorEnglish": "Isaac Minkovski",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה הוריות",
+  "displayNameEnglish": "Keren Orah Horayot",
+  "fileName": "kerenorahhorayot",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1884,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kerenorahhorayot/kerenorahhorayot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahhorayot/kerenorahhorayot__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מינקובסקי",
@@ -733,8 +937,23 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/kerenorahmeila/kerenorahmeila__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahmeila/kerenorahmeila__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יצחק מינקובסקי",
+  "authorEnglish": "Isaac Minkovski",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה מנחות",
+  "displayNameEnglish": "Keren Orah Menachot",
+  "fileName": "kerenorahmenachot",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1884,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kerenorahmenachot/kerenorahmenachot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahmenachot/kerenorahmenachot__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מינקובסקי",
@@ -748,8 +967,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/kerenorahmoedkatan/kerenorahmoedkatan__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahmoedkatan/kerenorahmoedkatan__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מינקובסקי",
@@ -763,8 +982,23 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/kerenorahnazir/kerenorahnazir__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahnazir/kerenorahnazir__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יצחק מינקובסקי",
+  "authorEnglish": "Isaac Minkovski",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה נדרים",
+  "displayNameEnglish": "Keren Orah nedarim",
+  "fileName": "kerenorahnedarim",
+  "printLocation": "ווילנא",
+  "printLocationEnglish": "Wilna",
+  "printYear": 1884,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kerenorahnedarim/kerenorahnedarim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahnedarim/kerenorahnedarim__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מינקובסקי",
@@ -778,8 +1012,8 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/kerenorahsanhedrin/kerenorahsanhedrin__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahsanhedrin/kerenorahsanhedrin__nikud_meteg_files.zip"
  },
  {
   "author": "הרב יצחק מינקובסקי",
@@ -793,8 +1027,68 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/kerenorahshabbat/kerenorahshabbat__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahshabbat/kerenorahshabbat__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יצחק מינקובסקי",
+  "authorEnglish": "Isaac Minkovski",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה סוטה",
+  "displayNameEnglish": "Keren Orah Sotah",
+  "fileName": "kerenorahsotah",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1884,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kerenorahsotah/kerenorahsotah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahsotah/kerenorahsotah__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יצחק מינקובסקי",
+  "authorEnglish": "Isaac Minkovski",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה תענית",
+  "displayNameEnglish": "Keren Orah Taanit",
+  "fileName": "kerenorahtaanit",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1884,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kerenorahtaanit/kerenorahtaanit__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahtaanit/kerenorahtaanit__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יצחק מינקובסקי",
+  "authorEnglish": "Isaac Minkovski",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה יבמות",
+  "displayNameEnglish": "Keren Orah Yevamot",
+  "fileName": "kerenorahyevamot",
+  "printLocation": "וילנא",
+  "printLocationEnglish": "Vilna",
+  "printYear": 1852,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kerenorahyevamot/kerenorahyevamot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahyevamot/kerenorahyevamot__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב יצחק מינקובסקי",
+  "authorEnglish": "Isaac Minkovski",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "קרן אורה זבחים",
+  "displayNameEnglish": "Keren Orah Zvachim",
+  "fileName": "kerenorahzvachim",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1884,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/kerenorahzvachim/kerenorahzvachim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/kerenorahzvachim/kerenorahzvachim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אברהם שמואל בנימין סופר",
@@ -808,8 +1102,8 @@
   "printLocationEnglish": null,
   "printYear": 1873,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/ketavsoferorachchaim/ketavsoferorachchaim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/ketavsoferorachchaim/ketavsoferorachchaim__nikud_meteg_files.zip"
  },
  {
   "author": "הרב זאב וולף בן אלעזר מליזנסק",
@@ -823,8 +1117,8 @@
   "printLocationEnglish": "Pietrkow",
   "printYear": 1901,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/lashonhazahavshabbatversion2/lashonhazahavshabbatversion2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/lashonhazahavshabbatversion2/lashonhazahavshabbatversion2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי משה טראני",
@@ -838,8 +1132,8 @@
   "printLocationEnglish": "Lvov",
   "printYear": 1861,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/mabbit1/mabbit1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/mabbit1/mabbit1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי משה טראני",
@@ -853,8 +1147,8 @@
   "printLocationEnglish": "Lvov",
   "printYear": 1861,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/mabbit2/mabbit2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/mabbit2/mabbit2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי משה טראני",
@@ -868,8 +1162,8 @@
   "printLocationEnglish": "Lvov",
   "printYear": 1861,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/mabbit3/mabbit3__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/mabbit3/mabbit3__nikud_meteg_files.zip"
  },
  {
   "author": "רבי משה בן יצחק אלשקר",
@@ -883,8 +1177,8 @@
   "printLocationEnglish": null,
   "printYear": 1834,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/maharamalashkar/maharamalashkar__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/maharamalashkar/maharamalashkar__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מאיר קצנלנבוגן",
@@ -898,8 +1192,8 @@
   "printLocationEnglish": "Krakow",
   "printYear": 1882,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/maharampadua/maharampadua__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/maharampadua/maharampadua__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אלכסנדר שמואל היילפרין",
@@ -913,8 +1207,8 @@
   "printLocationEnglish": "Lemberg",
   "source": "מספריית דיקטה",
   "printYear": 1896,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/maharash/maharash__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/maharash/maharash__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב פראג'י",
@@ -928,8 +1222,8 @@
   "printLocationEnglish": "Alexandria",
   "printYear": 1901,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/maharif/maharif__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/maharif/maharif__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יהודה בן אליעזר מינץ",
@@ -943,8 +1237,8 @@
   "printLocationEnglish": "Krakow",
   "printYear": 1882,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/maharimintz/maharimintz__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/maharimintz/maharimintz__nikud_meteg_files.zip"
  },
  {
   "author": "רבי שלום מרדכי שבדרון",
@@ -958,8 +1252,8 @@
   "printLocationEnglish": null,
   "printYear": 1902,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/maharsham1/maharsham1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/maharsham1/maharsham1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יונה לנדסופר",
@@ -973,8 +1267,8 @@
   "printLocationEnglish": "Sadilkab",
   "printYear": 1835,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/meiltzedakah/meiltzedakah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/meiltzedakah/meiltzedakah__nikud_meteg_files.zip"
  },
  {
   "author": "רבי נפתלי צבי יהודה ברלין",
@@ -988,8 +1282,8 @@
   "printLocationEnglish": null,
   "source": "מספריית דיקטה",
   "printYear": 1894,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/mishivdavar/mishivdavar__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/mishivdavar/mishivdavar__nikud_meteg_files.zip"
  },
  {
   "displayName": "משפטים ישרים",
@@ -1000,8 +1294,37 @@
   "author": "רבי רפאל בן מרדכי ברדוגו",
   "category": "שו\"ת",
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/mishpatimyesharim/mishpatimyesharim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/mishpatimyesharim/mishpatimyesharim__nikud_meteg_files.zip"
+ },
+ {
+  "author": "דוד טבל בן משה, ממינסק",
+  "authorEnglish": "Dovid Tevil",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "נחלת דוד בבא מציעא",
+  "displayNameEnglish": "Nachalat David Bava Metzia",
+  "fileName": "nachalatdavidbavametzia",
+  "printLocation": "ניו יורק",
+  "printLocationEnglish": "New York",
+  "printYear": 1947,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/nachalatdavidbavametzia/nachalatdavidbavametzia__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/nachalatdavidbavametzia/nachalatdavidbavametzia__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי חיים עוזר גרודזינסקי",
+  "authorEnglish": "Chaim Ozer Grodzinski",
+  "category": "מפרשים וחיבורים סביב שולחן ערוך",
+  "categoryEnglish": "Commentaries on Shulchan Aruch",
+  "displayName": "נחל יצחק",
+  "displayNameEnglish": "Nachal Yitzchak part 1",
+  "fileName": "nachalyitzchak1",
+  "printLocation": "וילנא",
+  "printLocationEnglish": "Vilna",
+  "printYear": 1872,
+  "textFileURL": "https://files.dicta.org.il/nachalyitzchak1/nachalyitzchak1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/nachalyitzchak1/nachalyitzchak1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי רפאל יום טוב ליפמן היילפרין",
@@ -1015,8 +1338,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1880,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/onegyomtov/onegyomtov__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/onegyomtov/onegyomtov__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מאיר איזנשטאט",
@@ -1030,8 +1353,8 @@
   "printLocationEnglish": "Lemberg",
   "printYear": 1899,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/panimmeirot2/panimmeirot2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/panimmeirot2/panimmeirot2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מאיר איזנשטאט",
@@ -1045,8 +1368,8 @@
   "printLocationEnglish": "Lemberg",
   "printYear": 1899,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/panimmeirot3/panimmeirot3__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/panimmeirot3/panimmeirot3__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מסעוד הכהן",
@@ -1060,8 +1383,8 @@
   "printLocationEnglish": null,
   "printYear": 1948,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/pircheikehunah/pircheikehunah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/pircheikehunah/pircheikehunah__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יצחק בלזר",
@@ -1075,8 +1398,8 @@
   "printLocationEnglish": "Jerusalem",
   "printYear": 1913,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/priyitzchak2/priyitzchak2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/priyitzchak2/priyitzchak2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי דוד בן חיים הכהן",
@@ -1090,8 +1413,8 @@
   "printLocationEnglish": null,
   "printYear": 1834,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/radach/radach__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/radach/radach__nikud_meteg_files.zip"
  },
  {
   "author": "רבי דוד בן שלמה אבן זמרא",
@@ -1104,8 +1427,8 @@
   "printLocation": "ירושלים",
   "printLocationEnglish": "Jerusalem",
   "printYear": 1882,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/radbaz7/radbaz7__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/radbaz7/radbaz7__nikud_meteg_files.zip"
  },
  {
   "author": "רבי עקיבא בן משה איגר",
@@ -1119,8 +1442,64 @@
   "printLocationEnglish": null,
   "printYear": 1902,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/rakivaeiger/rakivaeiger__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/rakivaeiger/rakivaeiger__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי נסים בן ראובן גירונדי",
+  "authorEnglish": "rabbi Nissim ben Reuben Gerondi",
+  "category": "מפרשי הש\"ס (ראשונים ופוסקים)",
+  "categoryEnglish": "Rishonim on Talmud Bavli",
+  "displayName": "ר\"ן עבודה זרה",
+  "displayNameEnglish": "Ran Avodah Zarah",
+  "fileName": "ranavodahzarah",
+  "printLocation": "ירושלים",
+  "printLocationEnglish": "Jerusalem",
+  "printYear": 1903,
+  "textFileURL": "https://files.dicta.org.il/ranavodahzarah/ranavodahzarah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/ranavodahzarah/ranavodahzarah__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי נסים בן ראובן גירונדי",
+  "authorEnglish": "rabbi Nissim ben Reuben Gerondi",
+  "category": "מפרשי הש\"ס (ראשונים ופוסקים)",
+  "categoryEnglish": "Rishonim on Talmud Bavli",
+  "displayName": "ר\"ן מגילה",
+  "displayNameEnglish": "Ran Megillah",
+  "fileName": "ranmegillah",
+  "printLocation": "אלטונא",
+  "printLocationEnglish": null,
+  "printYear": 1858,
+  "textFileURL": "https://files.dicta.org.il/ranmegillah/ranmegillah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/ranmegillah/ranmegillah__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי נסים בן ראובן גירונדי",
+  "authorEnglish": "rabbi Nissim ben Reuben Gerondi",
+  "category": "מפרשי הש\"ס (ראשונים ופוסקים)",
+  "categoryEnglish": "Rishonim on Talmud Bavli",
+  "displayName": "ר\"ן (מיוחס לו) שבת",
+  "displayNameEnglish": "Ran (attributed to him) Shabbat",
+  "fileName": "ranmeyuchasshabbat",
+  "printLocation": "װארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1862,
+  "textFileURL": "https://files.dicta.org.il/ranmeyuchasshabbat/ranmeyuchasshabbat__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/ranmeyuchasshabbat/ranmeyuchasshabbat__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי נסים בן ראובן גירונדי",
+  "authorEnglish": "rabbi Nissim ben Reuben Gerondi",
+  "category": "מפרשי הש\"ס (ראשונים ופוסקים)",
+  "categoryEnglish": "Rishonim on Talmud Bavli",
+  "displayName": "ר\"ן ראש השנה",
+  "displayNameEnglish": "Ran Rosh Hashanah",
+  "fileName": "ranroshhashanah",
+  "printLocation": "ירושלים",
+  "printLocationEnglish": "Jerusalem",
+  "printYear": 1871,
+  "textFileURL": "https://files.dicta.org.il/ranroshhashanah/ranroshhashanah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/ranroshhashanah/ranroshhashanah__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יוסף בן מאיר הלוי אבן מיגאש",
@@ -1134,8 +1513,36 @@
   "printLocationEnglish": "Warsaw",
   "printYear": 1870,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/rimigash/rimigash__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/rimigash/rimigash__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי יוסף בן מאיר הלוי אבן מיגאש",
+  "authorEnglish": "Yosef ben Meir haLevi Even Migash",
+  "category": "מפרשי הש\"ס (ראשונים ופוסקים)",
+  "categoryEnglish": "Rishonim on Talmud Bavli",
+  "displayName": "ר\"י מיגאש בבא בתרא",
+  "displayNameEnglish": "Ri Migash Bava Batra",
+  "fileName": "rimigashbavabatra",
+  "printLocation": "ורשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1884,
+  "textFileURL": "https://files.dicta.org.il/rimigashbavabatra/rimigashbavabatra__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/rimigashbavabatra/rimigashbavabatra__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי יוסף בן מאיר הלוי אבן מיגאש",
+  "authorEnglish": "Yosef ben Meir haLevi Even Migash",
+  "category": "מפרשי הש\"ס (ראשונים ופוסקים)",
+  "categoryEnglish": "Rishonim on Talmud Bavli",
+  "displayName": "ר\"י מיגאש שבועות",
+  "displayNameEnglish": "Ri Migash Shevuot",
+  "fileName": "rimigashshevuot",
+  "printLocation": "פראג",
+  "printLocationEnglish": "Prague",
+  "printYear": 1826,
+  "textFileURL": "https://files.dicta.org.il/rimigashshevuot/rimigashshevuot__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/rimigashshevuot/rimigashshevuot__nikud_meteg_files.zip"
  },
  {
   "author": "רבי משה בן מכיר",
@@ -1149,8 +1556,8 @@
   "printLocationEnglish": "Lublin",
   "printYear": 1876,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/sederyom/sederyom__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/sederyom/sederyom__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יצחק בן אבא מרי",
@@ -1164,8 +1571,8 @@
   "printLocationEnglish": "Lemberg",
   "printYear": 1860,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/seferhaittur1/seferhaittur1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/seferhaittur1/seferhaittur1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אריה ליב גינזבורג",
@@ -1178,8 +1585,53 @@
   "printLocation": "ורשא",
   "printLocationEnglish": null,
   "printYear": 1869,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/shaagataryeh/shaagataryeh__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shaagataryeh/shaagataryeh__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי אפרים הכהן",
+  "authorEnglish": "Ephraim ben Yakov haCohen",
+  "category": "שו\"ת",
+  "categoryEnglish": "Responsa",
+  "displayName": "שער אפרים",
+  "displayNameEnglish": "Shaar Ephraim",
+  "fileName": "shaarephraim",
+  "printLocation": "לעמבערג",
+  "printLocationEnglish": "Lemberg",
+  "printYear": 1886,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/shaarephraim/shaarephraim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shaarephraim/shaarephraim__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב אלכסנדר סנדר הכהן קפלן",
+  "authorEnglish": "KAPLAN, ALEXANDER SENDER BEN ZERAH HA-KOHEN",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "שלמי נדרים",
+  "displayNameEnglish": "Shalmei Nedarim",
+  "fileName": "shalmeinedarim",
+  "printLocation": "ווילנא",
+  "printLocationEnglish": "Vilna",
+  "printYear": 1881,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/shalmeinedarim/shalmeinedarim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shalmeinedarim/shalmeinedarim__nikud_meteg_files.zip"
+ },
+ {
+  "author": "הרב ירוחם אשר וַרְהַפְטִיג",
+  "authorEnglish": "Varhaftig, Yeruham Asher ben Shelomoh Yaakov",
+  "category": "מפרשים וחיבורים סביב הרמב\"ם",
+  "categoryEnglish": "Commentaries on the Rambam",
+  "displayName": "שלמי ירוחם",
+  "displayNameEnglish": "Shalmei Yerucham",
+  "fileName": "shalmeiyerucham",
+  "printLocation": "ירושלים",
+  "printLocationEnglish": "Jerusalem",
+  "printYear": 1941,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/shalmeiyerucham/shalmeiyerucham__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shalmeiyerucham/shalmeiyerucham__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יוסף כ\"ץ",
@@ -1192,8 +1644,8 @@
   "printLocation": "קראקא",
   "printLocationEnglish": "Krakow",
   "printYear": 1893,
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/sheerityosef/sheerityosef__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/sheerityosef/sheerityosef__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב ריישר",
@@ -1207,8 +1659,8 @@
   "printLocationEnglish": "Lamberg",
   "printYear": 1861,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/shevutyaakov1/shevutyaakov1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shevutyaakov1/shevutyaakov1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב ריישר",
@@ -1222,8 +1674,8 @@
   "printLocationEnglish": "Lamberg",
   "printYear": 1861,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/shevutyaakov2/shevutyaakov2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shevutyaakov2/shevutyaakov2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב ריישר",
@@ -1237,8 +1689,22 @@
   "printLocationEnglish": "Lamberg",
   "printYear": 1861,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/shevutyaakov3/shevutyaakov3__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shevutyaakov3/shevutyaakov3__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי יוסף בר מאיר תאומים",
+  "authorEnglish": "Joseph ben Meir Teomim",
+  "category": "ספרי מערכות ועניינים",
+  "categoryEnglish": "Chiddushim by Topic",
+  "displayName": "שושנת העמקים",
+  "displayNameEnglish": "Shoshanat Ha-Amakim",
+  "fileName": "shoshanathaamakim",
+  "printLocation": "ורשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1902,
+  "textFileURL": "https://files.dicta.org.il/shoshanathaamakim/shoshanathaamakim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shoshanathaamakim/shoshanathaamakim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב בן יקותיאל בירדוגו",
@@ -1252,8 +1718,8 @@
   "printLocationEnglish": "Jerusalem",
   "printYear": 1910,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/shufrehdeyaakov1/shufrehdeyaakov1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shufrehdeyaakov1/shufrehdeyaakov1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי יעקב בן יקותיאל בירדוגו",
@@ -1267,8 +1733,8 @@
   "printLocationEnglish": "Jerusalem",
   "printYear": 1910,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/shufrehdeyaakov2/shufrehdeyaakov2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/shufrehdeyaakov2/shufrehdeyaakov2__nikud_meteg_files.zip"
  },
  {
   "displayName": "תורת חסד",
@@ -1283,8 +1749,8 @@
    "displayName": "דף 8",
    "fileName": "toratchesed-008.zip"
   },
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/toratchesed/toratchesed__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/toratchesed/toratchesed__nikud_meteg_files.zip"
  },
  {
   "author": "רבי משה בן נחמן",
@@ -1298,8 +1764,23 @@
   "printLocationEnglish": null,
   "printYear": 1876,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/torathaadam/torathaadam__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/torathaadam/torathaadam__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי משה בן רבי שלמה אבן חביב",
+  "authorEnglish": "Moshe ben Shlomo Even Chaviv",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "תוספת יום הכיפורים",
+  "displayNameEnglish": "Tosefet Yom Hakippurim",
+  "fileName": "tosefetyomhakippurim",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1861,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/tosefetyomhakippurim/tosefetyomhakippurim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tosefetyomhakippurim/tosefetyomhakippurim__nikud_meteg_files.zip"
  },
  {
   "author": "שלמה קלוגר",
@@ -1313,8 +1794,8 @@
   "printLocationEnglish": null,
   "printYear": 1884,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tuvtaamvadaat/tuvtaamvadaat__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tuvtaamvadaat/tuvtaamvadaat__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדעל בן אברהם קרועמל",
@@ -1328,8 +1809,8 @@
   "printLocationEnglish": "Lemberg",
   "printYear": 1861,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedekhakadmon/tzemachtzedekhakadmon__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedekhakadmon/tzemachtzedekhakadmon__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדל שניאורסון",
@@ -1343,8 +1824,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1871,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer1/tzemachtzedeklubavitchevenhaezer1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer1/tzemachtzedeklubavitchevenhaezer1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדל שניאורסון",
@@ -1358,8 +1839,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1871,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer2/tzemachtzedeklubavitchevenhaezer2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer2/tzemachtzedeklubavitchevenhaezer2__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדל שניאורסון",
@@ -1373,8 +1854,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1872,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer3/tzemachtzedeklubavitchevenhaezer3__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer3/tzemachtzedeklubavitchevenhaezer3__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדל שניאורסון",
@@ -1388,8 +1869,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1872,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer4/tzemachtzedeklubavitchevenhaezer4__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchevenhaezer4/tzemachtzedeklubavitchevenhaezer4__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדל שניאורסון",
@@ -1403,8 +1884,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1884,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchorachchaim1/tzemachtzedeklubavitchorachchaim1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchorachchaim1/tzemachtzedeklubavitchorachchaim1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדל שניאורסון",
@@ -1418,8 +1899,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1874,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchyorehdeah1/tzemachtzedeklubavitchyorehdeah1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchyorehdeah1/tzemachtzedeklubavitchyorehdeah1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי מנחם מנדל שניאורסון",
@@ -1433,8 +1914,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1874,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchyorehdeah2/tzemachtzedeklubavitchyorehdeah2__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzemachtzedeklubavitchyorehdeah2/tzemachtzedeklubavitchyorehdeah2__nikud_meteg_files.zip"
  },
  {
   "author": "ר' יחזקאל הלוי לנדא",
@@ -1448,8 +1929,8 @@
   "printLocationEnglish": null,
   "printYear": 1891,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/tzlachkodashim/tzlachkodashim__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/tzlachkodashim/tzlachkodashim__nikud_meteg_files.zip"
  },
  {
   "author": "רבי דוד ועקנין",
@@ -1463,8 +1944,8 @@
   "printLocationEnglish": "Jerusalem",
   "printYear": 1927,
   "source": "מספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/vayedaberdavid/vayedaberdavid__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/vayedaberdavid/vayedaberdavid__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אליהו בן שלמה זלמן (הגאון מוילנא)",
@@ -1478,8 +1959,8 @@
   "printLocationEnglish": "Vilna",
   "printYear": 1882,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/yahelohr/yahelohr__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/yahelohr/yahelohr__nikud_meteg_files.zip"
  },
  {
   "author": "רבי אליהו ילוז",
@@ -1493,8 +1974,8 @@
   "printLocationEnglish": "Jerusalem",
   "printYear": 1909,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/yeshmeayin1/yeshmeayin1__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/yeshmeayin1/yeshmeayin1__nikud_meteg_files.zip"
  },
  {
   "author": "רבי ישראל יהושע בן דוד טרונק",
@@ -1508,7 +1989,22 @@
   "printLocationEnglish": "Piotrkow",
   "printYear": 1927,
   "source": "ספריית דיקטה",
-  "textFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/beitephraimyorehdeah/beitephraimyorehdeah__nikud_meteg_files.zip"
+  "textFileURL": "https://files.dicta.org.il/yeshuotmalko/yeshuotmalko__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/yeshuotmalko/yeshuotmalko__nikud_meteg_files.zip"
+ },
+ {
+  "author": "רבי משה בן רבי שלמה אבן חביב",
+  "authorEnglish": "Moshe ben Shlomo Even Chaviv",
+  "category": "מפרשי הש\"ס (אחרונים)",
+  "categoryEnglish": "Acharonim on Talmud Bavli",
+  "displayName": "יום תרועה",
+  "displayNameEnglish": "Yom Teruah",
+  "fileName": "yomteruah",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": "Warsaw",
+  "printYear": 1861,
+  "source": "ספריית דיקטה",
+  "textFileURL": "https://files.dicta.org.il/yomteruah/yomteruah__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/yomteruah/yomteruah__nikud_meteg_files.zip"
  }
 ]
