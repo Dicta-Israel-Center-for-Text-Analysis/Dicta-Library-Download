@@ -1492,23 +1492,21 @@
   "OCRDataURL": "https://files.dicta.org.il/darcheisholom/darcheisholom__ocr_data_html_files.zip"
  },
  {
-  "notHumanReviewed": true,
-  "author": "",
-  "authorEnglish": "",
-  "category": "",
-  "categoryEnglish": "",
+  "author": "זכריה מנדל, מירוסלב",
+  "authorEnglish": "Zechariah Mendel ben Aryeh Leib",
+  "category": "ספרי חסידות",
+  "categoryEnglish": "Sifrei Chasidut",
   "displayName": "דרכי צדק",
-  "displayNameEnglish": "",
+  "displayNameEnglish": "Darchei Tzedek",
   "fileName": "darcheitzedek",
-  "printLocation": "",
-  "printLocationEnglish": "",
-  "printYear": "",
+  "printLocation": "לבוב",
+  "printLocationEnglish": "Lvov",
+  "printYear": 1796,
   "source": "ספריית דיקטה",
-  "ocrHtmlFileURL": "https://files.dicta.org.il/darcheitzedek/darcheitzedek__ocr_data_html_files.zip",
   "textFileURL": "https://files.dicta.org.il/darcheitzedek/darcheitzedek__text_files.zip",
   "nikudMetegFileURL": "https://files.dicta.org.il/darcheitzedek/darcheitzedek__nikud_meteg_files.zip",
-  "ocrFeDir": "darcheitzedek",
-  "OCRDataURL": "https://files.dicta.org.il/darcheitzedek/darcheitzedek__ocr_data_html_files.zip"
+  "OCRDataURL": "https://files.dicta.org.il/darcheitzedek/darcheitzedek__ocr_data_html_files.zip",
+  "notHumanReviewed": true
  },
  {
   "author": "הרב דוד בונאן",
