@@ -13,4 +13,4 @@
 
 קישור לספרייה: https://library.dicta.org.il
 
-https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/
