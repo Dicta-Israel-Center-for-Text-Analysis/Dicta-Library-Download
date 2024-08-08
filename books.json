@@ -5673,6 +5673,22 @@
   "OCRDataURL": "https://files.dicta.org.il/mirkevethamishnehchelma2/mirkevethamishnehchelma2__ocr_data_html_files.zip"
  },
  {
+  "author": "רבי נפתלי צבי יהודה ברלין",
+  "authorEnglish": "Naftali Zvi Yehuda Berlin",
+  "category": "שו\"ת",
+  "categoryEnglish": "Responsa",
+  "displayName": "משיב דבר",
+  "displayNameEnglish": "Mishiv Davar",
+  "fileName": "mishivdavar",
+  "printLocation": "ווארשא",
+  "printLocationEnglish": null,
+  "printYear": 1894,
+  "ocrFeDir": "mishivdavar_EGT",
+  "textFileURL": "https://files.dicta.org.il/mishivdavar/mishivdavar__text_files.zip",
+  "nikudMetegFileURL": "https://files.dicta.org.il/mishivdavar/mishivdavar__nikud_meteg_files.zip",
+  "OCRDataURL": "https://files.dicta.org.il/mishivdavar/mishivdavar__ocr_data_html_files.zip"
+ },
+ {
   "author": "ר' עוזיאל לחאייך",
   "authorEnglish": "Uziel Lachaich",
   "category": "ספרי מערכות ועניינים",
@@ -10394,37 +10410,5 @@
   "textFileURL": "https://files.dicta.org.il/zevachhashlamim/zevachhashlamim__text_files.zip",
   "nikudMetegFileURL": "https://files.dicta.org.il/zevachhashlamim/zevachhashlamim__nikud_meteg_files.zip",
   "OCRDataURL": "https://files.dicta.org.il/zevachhashlamim/zevachhashlamim__ocr_data_html_files.zip"
- },
- {
-  "author": "רבי נפתלי צבי יהודה ברלין",
-  "authorEnglish": "Naftali Zvi Yehuda Berlin",
-  "category": "שו\"ת",
-  "categoryEnglish": "Responsa",
-  "displayName": "משיב דבר חלק א",
-  "displayNameEnglish": "Mishiv Davar parts 1",
-  "fileName": "mishivdavar1",
-  "printLocation": "ווארשא",
-  "printLocationEnglish": "Warsaw",
-  "printYear": 1894,
-  "ocrFeDir": "mishivdavar1_EGT",
-  "textFileURL": "https://files.dicta.org.il/mishivdavar1/mishivdavar1__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/mishivdavar1/mishivdavar1__nikud_meteg_files.zip",
-  "OCRDataURL": "https://files.dicta.org.il/mishivdavar1/mishivdavar1__ocr_data_html_files.zip"
- },
- {
-  "author": "רבי נפתלי צבי יהודה ברלין",
-  "authorEnglish": "Naftali Zvi Yehuda Berlin",
-  "category": "שו\"ת",
-  "categoryEnglish": "Responsa",
-  "displayName": "משיב דבר חלק ב",
-  "displayNameEnglish": "Mishiv Davar parts 2",
-  "fileName": "mishivdavar2",
-  "printLocation": "ווארשא",
-  "printLocationEnglish": "Warsaw",
-  "printYear": 1894,
-  "ocrFeDir": "mishivdavar2_EGT",
-  "textFileURL": "https://files.dicta.org.il/mishivdavar2/mishivdavar2__text_files.zip",
-  "nikudMetegFileURL": "https://files.dicta.org.il/mishivdavar2/mishivdavar2__nikud_meteg_files.zip",
-  "OCRDataURL": "https://files.dicta.org.il/mishivdavar2/mishivdavar2__ocr_data_html_files.zip"
  }
 ]
